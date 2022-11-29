@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#4820)
 
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriagopian&show_icons=true&theme=aura)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriagopian&show_icons=true&theme=aura&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,7 +17,7 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriagopian&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriagopian&layout=compact&theme=aura&hide=jupyter,notebook&count_private=true&exclude_repo=python-hash-imersao)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 Apaixonado por tecnologia, hoje trabalho na empresa Mevo e estou estudando AWS.
