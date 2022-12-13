@@ -1,7 +1,7 @@
 ### Olá! eu sou o Yuri 🖖
 
 - 🔭 I’m currently working on Mevo
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning NestJS, Hexagonal Architecture and AWS.
 
 ##
 
