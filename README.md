@@ -29,7 +29,7 @@
 ![Snake animation](https://github.com/yuriagopian/yuriagopian/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
-Apaixonado por tecnologia, hoje trabalho na empresa Mevo e estou estudando AWS.
+Apaixonado por tecnologia, hoje trabalho na empresa Mevo e estou estudando Nestjs e AWS.
 
 <!--
 **yuriagopian/yuriagopian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
